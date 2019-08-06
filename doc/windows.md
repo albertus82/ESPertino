@@ -9,7 +9,7 @@
         ![Step 1](win-gui-1.png)
         
     - Select source and destination
-        - Source Location: ```https://github.com/espressif/arduino-esp32.git```
+        - Source Location: ```https://github.com/EMCelettronica/ESPertino.git```
         - Target Directory: ```C:/Users/[YOUR_USER_NAME]/Documents/Arduino/hardware/espressif/esp32```
         - Click ```Clone``` to start cloning the repository
         
